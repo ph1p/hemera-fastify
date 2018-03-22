@@ -1,0 +1,17 @@
+{
+  "name": "hemera-fastify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:ph1p/hemera-fastify.git",
+    "type": "git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^1.1.1",
+    "hemera-plugin": "^1.1.1"
+  }
+}
